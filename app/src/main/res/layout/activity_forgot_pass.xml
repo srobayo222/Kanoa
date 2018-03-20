@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#54457F"
+    tools:context="com.moviles.kanoa.ForgotPassActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBarWWW"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_margin="10dp"
+        android:indeterminate="true"/>
+
+    <EditText
+        android:id="@+id/txtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_margin="10dp"
+        android:inputType="textPersonName"
+        android:hint="Correo Asociado" />
+
+    <Button
+        android:onClick="send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar contraseña"
+        android:layout_margin="10dp"
+        android:background="#41629C"
+        android:textColor="@android:color/white"/>
+</LinearLayout>
+

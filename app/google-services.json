@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "985631535219",
+    "firebase_url": "https://turistapp-25fa6.firebaseio.com",
+    "project_id": "turistapp-25fa6",
+    "storage_bucket": "turistapp-25fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985631535219:android:25f4939047e1e2d3",
+        "android_client_info": {
+          "package_name": "com.bazzingamobile.turistapp.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985631535219-j8cadqi9h5u9gkt2k1pfv96hc5n0jcb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bazzingamobile.turistapp.live",
+            "certificate_hash": "6947a15e7e49935c3109228c18335e7dc1f4fca8"
+          }
+        },
+        {
+          "client_id": "985631535219-ga495hc6o9f1cu04vqjes2rs481vl0hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUZQxGJzIlMUJ_8ttOXn0eGbdUAM7wWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985631535219-ga495hc6o9f1cu04vqjes2rs481vl0hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985631535219:android:d8cc079d33a447f6",
+        "android_client_info": {
+          "package_name": "live.turistapp.bazzingamobile.com.kaona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985631535219-afrb965ge57cuptt8u4anjjkp0rehl66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "live.turistapp.bazzingamobile.com.kaona",
+            "certificate_hash": "bfae9680754e759cbdfe73032844a824b0de3349"
+          }
+        },
+        {
+          "client_id": "985631535219-ga495hc6o9f1cu04vqjes2rs481vl0hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUZQxGJzIlMUJ_8ttOXn0eGbdUAM7wWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985631535219-ga495hc6o9f1cu04vqjes2rs481vl0hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985631535219:android:bd0b7e6573cc9572",
+        "android_client_info": {
+          "package_name": "com.moviles.kanoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985631535219-a2maab1sltggm0m0h9l6oap84tkkpos7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviles.kanoa",
+            "certificate_hash": "ce7b0dd4f593bf05a846b45b570e7b8bb7c28db0"
+          }
+        },
+        {
+          "client_id": "985631535219-ga495hc6o9f1cu04vqjes2rs481vl0hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUZQxGJzIlMUJ_8ttOXn0eGbdUAM7wWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985631535219-ga495hc6o9f1cu04vqjes2rs481vl0hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
